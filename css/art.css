@@ -1,0 +1,62 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+header h1 img{
+  width: 200px;
+  padding: 0
+}
+.geral{
+  margin: 0;
+  padding: 0px;
+  background-image: url(icnbgc.jpg);
+  background-attachment: fixed;
+  background-position: center;
+}
+.headiv{
+  background-image: url(TDPR.jpg);
+  background-attachment: fixed;
+  background-position: center;
+}
+.secdiv{
+  padding: 10px 0px
+}
+.batata{
+  padding: 50px 100px
+}
+.text{
+  padding: 0px 10px
+}
+article p{
+  text-align: center;
+  font-size: 16px;
+  font-family: helvetica;
+}
+section h2{
+  font-family: helvetica;
+  font-size: 25px
+}
+.footdiv{
+  background-image: url(TDPR.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  padding: 0px 0px 2px 0px
+}
+footer h3{
+  padding: 10px 0px 0px 10px;
+  color: white;
+  font-size: 12px;
+  font-family: helvetica
+}
+footer p{
+  padding: 0px 0px 0px 10px;
+  color: white;
+  font-size: 15px;
+  font-family: sans-serif;
+}
+.Fabiano{
+  padding: 50px 100px
+}
+.titulo{
+  font-size: 19px
+}

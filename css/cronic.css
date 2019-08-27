@@ -1,0 +1,55 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.geral{
+  background-image: url(icnbgc.jpg);
+  background-attachment: fixed;
+  background-position: center;
+}
+.headiv{
+  background-image: url(TDPR.jpg);
+  background-position: center;
+  background-attachment: fixed;
+}
+header h1 img{
+  width: 200px
+}
+.secdiv{
+  padding: 10px 0px
+}
+.Pedro{
+  padding: 50px 100px
+}
+.text{
+  padding: 0px 10px
+}
+article p{
+  font-family: helvetica;
+  font-size: 16px;
+  text-align: center;
+}
+.titulo{
+  font-size: 20px
+}
+section h2{
+  font-family: helvetica
+}
+.footdiv{
+  background-image: url(TDPR.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  padding: 0px 0px 2px 0px
+}
+footer h3{
+  color: white;
+  padding: 10px 0px 0px 10px;
+  font-family: helvetica;
+  font-size: 12px
+}
+footer p{
+  padding: 0px 0px 0px 10px;
+  color: white;
+  font-size: 15px;
+  font-family: sans-serif;
+}

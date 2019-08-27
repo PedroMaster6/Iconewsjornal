@@ -1,0 +1,28 @@
+<?xml version="1.0"?><svg width="793.7007874015749" height="1122.5196850393702" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>fold</title>
+ <defs>
+  <linearGradient id="linearGradient4596">
+   <stop stop-color="#666666" offset="0" id="stop4598"/>
+   <stop stop-color="#ffffff" offset="1" id="stop4600"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4574">
+   <stop stop-color="#999999" id="stop4576" offset="0"/>
+   <stop stop-color="#cccccc" offset="0.100919" id="stop4582"/>
+   <stop stop-color="#b3b3b3" id="stop4584" offset="0.26172"/>
+   <stop stop-color="#eeeeee" offset="0.5429" id="stop4586"/>
+   <stop stop-color="#aaaaaa" id="stop4578" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="0.596528" x2="0.385225" y1="0.487343" x1="0.490576" id="linearGradient4592" xlink:href="#linearGradient4596"/>
+  <linearGradient y2="0.142587" x2="0.847823" y1="0.5433" x1="0.462375" id="linearGradient4594" xlink:href="#linearGradient4574"/>
+ </defs>
+ <metadata id="metadata7">image/svg+xml</metadata>
+ <g>
+  <title>Layer 1</title>
+  <g id="layer1">
+   <g transform="matrix(3.62465, 0, 0, 3.79008, -209.337, -1507.3)" id="g4588">
+    <path fill="url(#linearGradient4592)" d="m57.755333,544.940674l0,130.361938l131.187004,0c-17.195511,-11.053894 -126.061424,-120.127014 -131.187004,-130.361938z" id="path3790"/>
+    <path fill="url(#linearGradient4594)" d="m188.751007,675.133972c-12.330002,-0.44397 -131.324009,-115.537964 -130.995708,-130.192993c0.0793,9.927002 78.409695,31.366028 112.210705,17.32605c-7.041,39.733948 10.563004,112.027954 18.785004,112.866943l0,0z" id="path4572"/>
+   </g>
+  </g>
+ </g>
+</svg>

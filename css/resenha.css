@@ -1,0 +1,66 @@
+*{
+  margin: 0;
+  padding: 0px;
+}
+.geral{
+  background-image: url(icnbgc.jpg);
+  background-attachment: fixed;
+  background-position: center;
+}
+.headiv{
+  background-image: url(TDPR.jpg);
+  background-attachment: fixed;
+  background-position: center;
+}
+header h1 img{
+  width: 200px;
+  padding: 0;
+}
+article img{
+  width: 200px;
+  padding: 0px 10px
+}
+.text{
+  padding: 0px 10px;
+  text-align: justify;
+  font-size: 16px
+}
+.artdiv{
+  padding: 0px 100px 80px 100px
+}
+.filme{
+  font-size: 25px
+}
+article p{
+  font-family: helvetica
+}
+.secdiv{
+  padding: 20px
+}
+.data{
+  padding: 0px 0px 10px 0px
+}
+.nome{
+  padding: 0px 0px 0px 10px
+}
+article hr{
+  color: black
+}
+.footdiv{
+  background-image: url(TDPR.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  padding: 0px 0px 2px 0px;
+}
+footer h3{
+  padding: 10px 0px 0px 10px;
+  color: white;
+  font-size: 12px;
+  font-family: helvetica;
+}
+footer p{
+  padding: 0px 0px 0px 10px;
+  color: white;
+  font-size: 15px;
+  font-family: sans-serif;
+}
